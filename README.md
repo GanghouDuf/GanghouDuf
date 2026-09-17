@@ -12,8 +12,6 @@
 
 </div>
 
----
-
 <div align="left">
 
 <img src="./assets/about.svg" alt="ABOUT">
@@ -30,8 +28,6 @@
 - **Go backend** — REST API, PostgreSQL, WebSocket, Docker;
 - **Manual QA** — проверка API, авторизации, запросов и ответов, оформление дефектов;
 - **CTF** — web, forensics, network, pwn и другие категории.
-
----
 
 <div align="left">
 
@@ -95,8 +91,6 @@
 | **Threat Model** | Модель угроз для сетевого шлюза по методике ФСТЭК | `ФСТЭК` `OWASP` |
 | **CTF writeups** | Разборы задач по web, forensics, network и pwn | `CTF` `Web` `Forensics` `PWN` |
 
----
-
 <div align="left">
 
 <img src="./assets/ctf.svg" alt="CTF">
@@ -121,11 +115,7 @@ pwn         → binary exploitation
 
 <img src="./assets/IMG_3663.PNG" alt="IMG_3663" width="50%">
 
-
-
 </div>
-
----
 
 <div align="left">
 <img src="./assets/focus.svg" alt="Current FOCUS">
@@ -140,8 +130,6 @@ pwn         → binary exploitation
 [+] CTF
 [+] Linux & networking
 ```
-
----
 
 <div align="left">
 <img src="./assets/contact.svg" alt="CONTACT">
