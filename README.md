@@ -16,7 +16,7 @@
 
 <div align="left">
 
-<h2 style="color:#BFE8FF;">✦ // about ✦</h2>
+────────── ✦ // ABOUT ✦ ──────────
 
 </div>
 
