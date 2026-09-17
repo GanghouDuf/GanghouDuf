@@ -35,7 +35,7 @@
 
 <div align="left">
 
-## ✦ `stack` ✦
+<img src="./assets/stack.svg" alt="STACK">
 
 </div>
 
@@ -95,7 +95,7 @@
 
 <div align="left">
 
-## ✦ `projects` ✦
+<img src="./assets/projects.svg" alt="PROJECTS">
 
 </div>
 
@@ -110,7 +110,7 @@
 
 <div align="left">
 
-## ✦ `ctf` ✦
+<img src="./assets/ctf.svg" alt="CTF">
 
 </div>
 
@@ -137,8 +137,7 @@ pwn         → binary exploitation
 ---
 
 <div align="left">
-
-## ✦ `current focus` ✦
+<img src="./assets/focus.svg" alt="Current FOCUS">
 
 </div>
 
@@ -154,8 +153,7 @@ pwn         → binary exploitation
 ---
 
 <div align="left">
-
-## ✦ `contact` ✦
+<img src="./assets/contact.svg" alt="CONTACT">
 
 </div>
 
