@@ -82,17 +82,6 @@
 <img src="https://img.shields.io/badge/Obsidian-BFE8FF?style=flat-square&logo=obsidian&logoColor=17324D">
 </p>
 
-### `security infrastructure`
-
-<p>
-<img src="https://img.shields.io/badge/ФСТЭК-BFE8FF?style=flat-square&logoColor=17324D">
-<img src="https://img.shields.io/badge/АПКШ_Континент-BFE8FF?style=flat-square&logoColor=17324D">
-<img src="https://img.shields.io/badge/КриптоПро-BFE8FF?style=flat-square&logoColor=17324D">
-<img src="https://img.shields.io/badge/ViPNet-BFE8FF?style=flat-square&logoColor=17324D">
-</p>
-
----
-
 <div align="left">
 
 <img src="./assets/projects.svg" alt="PROJECTS">
