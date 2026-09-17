@@ -14,7 +14,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## ✦ `// about` ✦
 
@@ -33,7 +33,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## ✦ `// stack` ✦
 
@@ -93,7 +93,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## ✦ `// projects` ✦
 
@@ -108,7 +108,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## ✦ `// ctf` ✦
 
@@ -126,7 +126,7 @@ pwn         → binary exploitation
 
 ### `team`
 
-<div align="center">
+<div align="left">
 
 **CODEX80**
 
@@ -136,7 +136,7 @@ pwn         → binary exploitation
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## ✦ `// current focus` ✦
 
