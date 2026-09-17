@@ -27,7 +27,7 @@
 - **AppSec** — анализ веб-приложений, моделирование угроз, OWASP;
 - **Go backend** — REST API, PostgreSQL, WebSocket, Docker;
 - **Manual QA** — проверка API, авторизации, запросов и ответов, оформление дефектов, нагрузочное тестирование;
-- **CTF** — web, forensics, network, pwn и другие категории.
+- **CTF** — web, forensics, network, steg.
 - **Leetcode** — easy, medium tasks
 
 <div align="left">
@@ -96,8 +96,8 @@
 |:--|:--|:--|
 | **[Hearyou](https://github.com/GanghouDuf/Hearyou)** | Realtime-чат с комнатами, WebSocket и авторизацией | `Go` `WebSocket` `JWT` |
 | **[TodoList](https://github.com/GanghouDuf/TodoList)** | REST API со слоистой архитектурой Handler → Service → Repository | `Go` `PostgreSQL` `gorilla/mux` |
-| **Threat Model** | Модель угроз для сетевого шлюза по методике ФСТЭК | `ФСТЭК` `OWASP` |
-| **CTF writeups** | Разборы задач по web, forensics, network и pwn | `CTF` `Web` `Forensics` `PWN` |
+| **[LibRary](https://github.com/GanghouDuf/Library)** | web-сервис для библиотеки | `Go` `Postgres` |
+| **CTF writeups** | Мб скоро будут, пока лень | `CTF` `Web` `Forensics` `Steg` |
 
 <div align="left">
 
@@ -105,15 +105,8 @@
 
 </div>
 
-Участвую в CTF-соревнованиях и практикуюсь на лабораториях по веб-безопасности.
+Участвую в CTF-соревнованиях и практикуюсь на PortSwigger по веб-безопасности.
 
-```text
-web         → SQLi · XSS · WebSocket · authentication
-forensics   → USB · phishing · steganography
-network     → protocols · services · Cisco Packet Tracer
-auth        → JWT · hashes · password attacks
-pwn         → binary exploitation
-```
 
 ### --- `my CTF team`
 
@@ -144,7 +137,6 @@ pwn         → binary exploitation
 
 </div>
 
-Открыт к стажировкам, учебным проектам и совместной практике в направлениях **AppSec**, **Go backend** и **Manual QA**.
 
 <br>
 
