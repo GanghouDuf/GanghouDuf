@@ -2,7 +2,7 @@
 
 <img src="./assets/celestial-banner.jpg" alt="Celestial banner" width="100%">
 
-<br><br>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=50&pause=1200&color=BFE8FF&center=true&vCenter=true&width=700&lines=whoami;%23yori;gopher;appsec;manual+QA;my+CTF+team+---+CODEX80+---" alt="typing banner">
 
@@ -16,7 +16,7 @@
 
 <div align="left">
 
-## ✦ `// about` ✦
+## ✦ `about` ✦
 
 </div>
 
@@ -35,7 +35,7 @@
 
 <div align="left">
 
-## ✦ `// stack` ✦
+## ✦ `stack` ✦
 
 </div>
 
@@ -95,7 +95,7 @@
 
 <div align="left">
 
-## ✦ `// projects` ✦
+## ✦ `projects` ✦
 
 </div>
 
@@ -110,7 +110,7 @@
 
 <div align="left">
 
-## ✦ `// ctf` ✦
+## ✦ `ctf` ✦
 
 </div>
 
@@ -138,7 +138,7 @@ pwn         → binary exploitation
 
 <div align="left">
 
-## ✦ `// current focus` ✦
+## ✦ `current focus` ✦
 
 </div>
 
@@ -155,7 +155,7 @@ pwn         → binary exploitation
 
 <div align="left">
 
-## ✦ `// contact` ✦
+## ✦ `contact` ✦
 
 </div>
 
