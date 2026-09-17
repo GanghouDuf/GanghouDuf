@@ -143,12 +143,16 @@
 <a href="https://github.com/GanghouDuf">
 <img src="https://img.shields.io/badge/GitHub-BFE8FF?style=for-the-badge&logo=github&logoColor=17324D">
 </a>
+
 <a href="https://t.me/smoky_size">
 <img src="https://img.shields.io/badge/Telegram-BFE8FF?style=for-the-badge&logo=telegram&logoColor=17324D">
 </a>
 
+<a href="[https://soundcloud.com/user-688245266">
+<img src="https://img.shields.io/badge/SoundCloud-BFE8FF?style=for-the-badge&logo=soundcloud&logoColor=17324D">
+</a>
+
 <br><br>
 
-<sub>✦ built with curiosity, broken things and too much coffee ✦</sub>
 
 </div>
