@@ -148,7 +148,7 @@
 <img src="https://img.shields.io/badge/Telegram-BFE8FF?style=for-the-badge&logo=telegram&logoColor=17324D">
 </a>
 
-<a href="[https://soundcloud.com/user-688245266">
+<a href="https://soundcloud.com/user-688245266">
 <img src="https://img.shields.io/badge/SoundCloud-BFE8FF?style=for-the-badge&logo=soundcloud&logoColor=17324D">
 </a>
 
