@@ -4,7 +4,7 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=50&pause=1200&color=BFE8FF&center=true&vCenter=true&width=700&lines=whoami;%23yori;gopher;appsec;manual+QA;my+CTF+team+---+CODEX80+---" alt="typing banner">
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=50&pause=900&color=BFE8FF&center=true&vCenter=true&width=700&lines=%23yori;gopher;appsec;manual+QA;my+CTF+team+---+CODEX80+---" alt="typing banner">
 
 <br>
 
@@ -18,16 +18,17 @@
 
 </div>
 
-Студент 4 курса по специальности **10.05.01 «Компьютерная безопасность»** в РГРТУ.
+Развиваюсь на пересечении **AppSec**, backend и manual QA. Пишу собственные сервисы, разбираю их с точки зрения безопасности и постепенно углубляюсь в архитектуру, API и практику поиска уязвимостей. 
 
-Развиваюсь на пересечении **AppSec**, backend-разработки на **Go** и ручного тестирования веб-сервисов. Пишу собственные сервисы, разбираю их с точки зрения безопасности и постепенно углубляюсь в архитектуру, API и практику поиска уязвимостей.
+Простой парень, который любит послушать неслушабельную музыку🥀
 
 Основные направления:
 
 - **AppSec** — анализ веб-приложений, моделирование угроз, OWASP;
 - **Go backend** — REST API, PostgreSQL, WebSocket, Docker;
-- **Manual QA** — проверка API, авторизации, запросов и ответов, оформление дефектов;
+- **Manual QA** — проверка API, авторизации, запросов и ответов, оформление дефектов, нагрузочное тестирование;
 - **CTF** — web, forensics, network, pwn и другие категории.
+- **Leetcode** — easy, medium tasks
 
 <div align="left">
 
@@ -66,6 +67,7 @@
 <img src="https://img.shields.io/badge/Postman-BFE8FF?style=flat-square&logoColor=17324D">
 <img src="https://img.shields.io/badge/DevTools-BFE8FF?style=flat-square&logoColor=17324D">
 <img src="https://img.shields.io/badge/Charles-BFE8FF?style=flat-square&logoColor=17324D">
+<img src="https://img.shields.io/badge/Jmeter-BFE8FF?style=flat-square&logoColor=17324D">
 </p>
 
 ### `systems & tools`
