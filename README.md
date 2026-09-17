@@ -39,7 +39,6 @@
 
 <p>
 <img src="https://img.shields.io/badge/Go-BFE8FF?style=flat-square&logo=go&logoColor=17324D">
-<img src="https://img.shields.io/badge/Python-BFE8FF?style=flat-square&logo=python&logoColor=17324D">
 <img src="https://img.shields.io/badge/Bash-BFE8FF?style=flat-square&logo=gnubash&logoColor=17324D">
 </p>
 
@@ -58,16 +57,15 @@
 <img src="https://img.shields.io/badge/PostgreSQL-BFE8FF?style=flat-square&logo=postgresql&logoColor=17324D">
 <img src="https://img.shields.io/badge/Docker-BFE8FF?style=flat-square&logo=docker&logoColor=17324D">
 <img src="https://img.shields.io/badge/VMware-BFE8FF?style=flat-square&logo=vmware&logoColor=17324D">
-<img src="https://img.shields.io/badge/NetBox-BFE8FF?style=flat-square&logoColor=17324D">
 </p>
 
-### `security`
-
+### `manual QA`
 <p>
-<img src="https://img.shields.io/badge/OWASP_Top_10-BFE8FF?style=flat-square&logo=owasp&logoColor=17324D">
-<img src="https://img.shields.io/badge/Burp_Suite-BFE8FF?style=flat-square&logoColor=17324D">
-<img src="https://img.shields.io/badge/sqlmap-BFE8FF?style=flat-square&logoColor=17324D">
-<img src="https://img.shields.io/badge/hashcat-BFE8FF?style=flat-square&logoColor=17324D">
+<img src="https://img.shields.io/badge/Jira-BFE8FF?style=flat-square&logoColor=17324D">
+<img src="https://img.shields.io/badge/Bug_Report-BFE8FF?style=flat-square&logoColor=17324D">
+<img src="https://img.shields.io/badge/Postman-BFE8FF?style=flat-square&logoColor=17324D">
+<img src="https://img.shields.io/badge/DevTools-BFE8FF?style=flat-square&logoColor=17324D">
+<img src="https://img.shields.io/badge/Charles-BFE8FF?style=flat-square&logoColor=17324D">
 </p>
 
 ### `systems & tools`
@@ -77,6 +75,14 @@
 <img src="https://img.shields.io/badge/Git-BFE8FF?style=flat-square&logo=git&logoColor=17324D">
 <img src="https://img.shields.io/badge/Obsidian-BFE8FF?style=flat-square&logo=obsidian&logoColor=17324D">
 </p>
+
+### `security`
+
+<p>
+<img src="https://img.shields.io/badge/OWASP_Top_10-BFE8FF?style=flat-square&logo=owasp&logoColor=17324D">
+<img src="https://img.shields.io/badge/Burp_Suite-BFE8FF?style=flat-square&logoColor=17324D">
+</p>
+
 
 <div align="left">
 
