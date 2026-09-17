@@ -153,7 +153,7 @@ pwn         → binary exploitation
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## ✦ `// contact` ✦
 
