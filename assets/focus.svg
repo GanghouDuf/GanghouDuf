@@ -20,10 +20,10 @@
     filter="url(#glow)">✦ Current FOCUS ✦</text>
 
   <line
-    x1="300" y1="28" x2="882" y2="28"
+    x1="360" y1="28" x2="882" y2="28"
     stroke="#BFE8FF"
     stroke-width="1.5"
     opacity="0.85"/>
 
-  <circle cx="300" cy="28" r="2" fill="#DCEEFF"/>
+  <circle cx="360" cy="28" r="2" fill="#DCEEFF"/>
 </svg>
