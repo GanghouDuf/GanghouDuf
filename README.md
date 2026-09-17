@@ -16,7 +16,7 @@
 
 <div align="left">
 
-## ✦ ABOUT ✦ ────────────────────────────────────────
+<img src="./assets/about.svg" alt="ABOUT">
 
 </div>
 
