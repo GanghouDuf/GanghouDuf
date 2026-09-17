@@ -20,7 +20,7 @@
     filter="url(#glow)">✦ ABOUT ✦</text>
 
   <line
-    x1="190" y1="28" x2="882" y2="28"
+    x1="220" y1="28" x2="882" y2="28"
     stroke="#BFE8FF"
     stroke-width="1.5"
     opacity="0.85"/>
