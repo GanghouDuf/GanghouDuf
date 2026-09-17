@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&pause=1200&color=BFE8FF&center=true&vCenter=true&width=700&lines=whoami;%23yori;gopher;appsec;manual+QA;my+CTF+team+---+CODEX80+---" alt="typing banner">
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=30&pause=1200&color=BFE8FF&center=true&vCenter=true&width=700&lines=whoami;%23yori;gopher;appsec;manual+QA;my+CTF+team+---+CODEX80+---" alt="typing banner">
 
 <br>
 
